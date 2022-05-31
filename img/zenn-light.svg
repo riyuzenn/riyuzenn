@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 900 580" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1.75781,0,0,1.15487,0,-11.2959)">
+        <rect x="0" y="9.781" width="512" height="502.219" style="fill:rgb(21,21,21);"/>
+    </g>
+    <g transform="matrix(0.99529,0,0,1,-384.633,-16.3575)">
+        <text x="440.556px" y="94.167px" style="font-family:'JetBrainsMono-Bold', 'JetBrains Mono', monospace;font-weight:700;font-size:17.768px;fill:rgb(182,110,89);">zenn@riyuzenn: ~ $</text>
+    </g>
+    <g transform="matrix(1,0,0,1,-180.537,-17.167)">
+        <g transform="matrix(0.99529,0,0,1,2.07481,0)">
+            <text x="440.556px" y="94.167px" style="font-family:'JetBrainsMono-Bold', 'JetBrains Mono', monospace;font-weight:700;font-size:17.768px;fill:rgb(122,102,173);">cat</text>
+        </g>
+        <g transform="matrix(0.99529,0,0,1,2.22472,0)">
+            <text x="483.048px" y="94.167px" style="font-family:'JetBrainsMono-Bold', 'JetBrains Mono', monospace;font-weight:700;font-size:17.768px;fill:rgb(124,99,29);">profile.txt</text>
+        </g>
+    </g>
+    <g transform="matrix(1.75781,0,0,1.1142,0,3.77357)">
+        <rect x="9.992" y="9.781" width="492.008" height="492.207" style="fill:none;stroke:rgb(149,126,116);stroke-width:2.4px;"/>
+    </g>
+    <g transform="matrix(0.381089,0,0,0.355357,42.3568,119.261)">
+        <text x="33.38px" y="31.861px" style="font-family:'JetBrainsMono-Regular', 'JetBrains Mono', monospace;font-size:50px;fill:rgb(240,200,175);">oh come on, turn on the dark mode. Who likes light mode anyway?</text>
+    </g>
+    <g transform="matrix(1.08242,0,0,1.21961,193.164,15.2609)">
+        <rect x="217.117" y="39.171" width="5.713" height="12.82" style="fill:rgb(153,124,117);"/>
+    </g>
+</svg>
