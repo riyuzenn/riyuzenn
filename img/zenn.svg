@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 900 580" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1.75781,0,0,1.15487,0,-11.2959)">
+        <rect x="0" y="9.781" width="512" height="502.219" style="fill:rgb(21,21,21);"/>
+    </g>
+    <g transform="matrix(0.99529,0,0,1,-384.633,-16.3575)">
+        <text x="440.556px" y="94.167px" style="font-family:'JetBrainsMono-Bold', 'JetBrains Mono', monospace;font-weight:700;font-size:17.768px;fill:rgb(182,110,89);">zenn@riyuzenn: ~ $</text>
+    </g>
+    <g transform="matrix(1,0,0,1,-180.537,-17.167)">
+        <g transform="matrix(0.99529,0,0,1,2.07481,0)">
+            <text x="440.556px" y="94.167px" style="font-family:'JetBrainsMono-Bold', 'JetBrains Mono', monospace;font-weight:700;font-size:17.768px;fill:rgb(122,102,173);">cat</text>
+        </g>
+        <g transform="matrix(0.99529,0,0,1,2.22472,0)">
+            <text x="483.048px" y="94.167px" style="font-family:'JetBrainsMono-Bold', 'JetBrains Mono', monospace;font-weight:700;font-size:17.768px;fill:rgb(124,99,29);">profile.txt</text>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,-386.707,279.194)">
+        <g transform="matrix(0.99529,0,0,1,2.07481,0)">
+            <g transform="matrix(17.7678,0,0,17.7678,451.217,94.1668)">
+                <path d="M0.194,-0.035L0.308,-0.177L-0.512,-0.177L-0.512,-0.247L0.365,-0.247L0.386,-0.274C0.399,-0.289 0.409,-0.302 0.418,-0.311C0.427,-0.32 0.433,-0.326 0.436,-0.329C0.433,-0.332 0.426,-0.339 0.417,-0.349C0.408,-0.359 0.396,-0.373 0.382,-0.39L0.364,-0.413L-0.512,-0.413L-0.512,-0.484L0.308,-0.484L0.194,-0.625L0.288,-0.625L0.522,-0.33L0.287,-0.035L0.194,-0.035Z" style="fill:rgb(122,102,120);fill-rule:nonzero;"/>
+            </g>
+            <text x="472.538px" y="94.167px" style="font-family:'JetBrainsMono-Light', 'JetBrains Mono', monospace;font-weight:300;font-size:17.768px;fill:rgb(122,102,120);">pgp key</text>
+        </g>
+        <g transform="matrix(0.99529,0,0,1,2.57451,0)">
+            <text x="546.661px" y="94.167px" style="font-family:'JetBrainsMono-Thin', 'JetBrains Mono', monospace;font-weight:100;font-size:17.768px;fill:rgb(122,102,120);">:</text>
+        </g>
+        <g transform="matrix(0.99529,0,0,1,2.67445,0)">
+            <g transform="matrix(17.7678,0,0,17.7678,642.507,94.1668)">
+                <path d="M-0.015,0.11L0.335,-0.83L0.465,-0.83L0.115,0.11L-0.015,0.11ZM-0.465,0.11L-0.115,-0.83L0.015,-0.83L-0.335,0.11L-0.465,0.11Z" style="fill:rgb(122,102,173);fill-rule:nonzero;"/>
+            </g>
+            <text x="567.882px" y="94.167px" style="font-family:'JetBrainsMono-Bold', 'JetBrains Mono', monospace;font-weight:700;font-size:17.768px;fill:rgb(122,102,173);">https:<tspan x="653.168px " y="94.167px ">g</tspan>ithub.com/riyuzenn.gpg</text>
+        </g>
+    </g>
+    <g transform="matrix(0.99529,0,0,1,-384.633,331.068)">
+        <g transform="matrix(17.7678,0,0,17.7678,451.217,94.1668)">
+            <path d="M0.194,-0.035L0.308,-0.177L-0.512,-0.177L-0.512,-0.247L0.365,-0.247L0.386,-0.274C0.399,-0.289 0.409,-0.302 0.418,-0.311C0.427,-0.32 0.433,-0.326 0.436,-0.329C0.433,-0.332 0.426,-0.339 0.417,-0.349C0.408,-0.359 0.396,-0.373 0.382,-0.39L0.364,-0.413L-0.512,-0.413L-0.512,-0.484L0.308,-0.484L0.194,-0.625L0.288,-0.625L0.522,-0.33L0.287,-0.035L0.194,-0.035Z" style="fill:rgb(122,102,120);fill-rule:nonzero;"/>
+        </g>
+        <text x="472.538px" y="94.167px" style="font-family:'JetBrainsMono-Light', 'JetBrains Mono', monospace;font-weight:300;font-size:17.768px;fill:rgb(122,102,120);">technologies i used:</text>
+    </g>
+    <g transform="matrix(2.24051,0,0,2.25111,-931.038,195.781)">
+        <text x="440.556px" y="94.167px" style="font-family:'JetBrainsMono-Thin', 'JetBrains Mono', monospace;font-weight:100;font-size:17.768px;fill:rgb(122,102,120);">————————————————————————————————</text>
+    </g>
+    <g transform="matrix(2.24051,0,0,2.25111,-933.223,50.673)">
+        <text x="440.556px" y="94.167px" style="font-family:'JetBrainsMono-Thin', 'JetBrains Mono', monospace;font-weight:100;font-size:17.768px;fill:rgb(122,102,120);">————————————————————————————————</text>
+    </g>
+    <g transform="matrix(1.75781,0,0,1.1142,0,3.77357)">
+        <rect x="9.992" y="9.781" width="492.008" height="492.207" style="fill:none;stroke:rgb(149,126,116);stroke-width:2.4px;"/>
+    </g>
+    <g transform="matrix(0.381089,0,0,0.355357,41.2229,280.138)">
+        <text x="33.38px" y="31.861px" style="font-family:'JetBrainsMono-Thin', 'JetBrains Mono', monospace;font-weight:100;font-size:50px;fill:rgb(240,200,175);">full stack developer &amp; open-source enthusiast, obsessed with</text>
+        <text x="33.38px" y="81.861px" style="font-family:'JetBrainsMono-Thin', 'JetBrains Mono', monospace;font-weight:100;font-size:50px;fill:rgb(240,200,175);">building &amp; innovating things. you can reach me with the given</text>
+        <text x="33.38px" y="131.861px" style="font-family:'JetBrainsMono-Thin', 'JetBrains Mono', monospace;font-weight:100;font-size:50px;fill:rgb(240,200,175);">social links above.</text>
+    </g>
+    <g transform="matrix(0.353683,0,0,0.355357,42.3614,120.129)">
+        <text x="33.38px" y="31.861px" style="font-family:'JetBrainsMono-Bold', 'JetBrains Mono', monospace;font-weight:700;font-size:50px;fill:rgb(206,127,148);">░░░░░░░░░░░░░░</text>
+        <text x="33.38px" y="81.861px" style="font-family:'JetBrainsMono-Bold', 'JetBrains Mono', monospace;font-weight:700;font-size:50px;fill:rgb(206,127,148);">░░████░█████░░</text>
+        <text x="33.38px" y="131.861px" style="font-family:'JetBrainsMono-Bold', 'JetBrains Mono', monospace;font-weight:700;font-size:50px;fill:rgb(206,127,148);">░░███░░░░██░░░</text>
+        <text x="33.38px" y="181.861px" style="font-family:'JetBrainsMono-Bold', 'JetBrains Mono', monospace;font-weight:700;font-size:50px;fill:rgb(206,127,148);">░░███░░░██░░░░</text>
+        <text x="33.38px" y="231.861px" style="font-family:'JetBrainsMono-Bold', 'JetBrains Mono', monospace;font-weight:700;font-size:50px;fill:rgb(206,127,148);">░░███░░█████░░</text>
+        <text x="33.38px" y="281.861px" style="font-family:'JetBrainsMono-Bold', 'JetBrains Mono', monospace;font-weight:700;font-size:50px;fill:rgb(206,127,148);">░░░░░░░░░░░░░░</text>
+    </g>
+    <g transform="matrix(1,0,0,1,-0.669874,-18.077)">
+        <g transform="matrix(0.353683,0,0,0.355357,210.661,219.286)">
+            <text x="33.38px" y="31.861px" style="font-family:'JetBrainsMono-Bold', 'JetBrains Mono', monospace;font-weight:700;font-size:50px;fill:rgb(206,127,148);">rdt:</text>
+            <text x="183.38px" y="31.861px" style="font-family:'JetBrainsMono-Bold', 'JetBrains Mono', monospace;font-weight:700;font-size:50px;fill:rgb(66,141,126);">u/riyuzen</text>
+        </g>
+        <g transform="matrix(0.353683,0,0,0.355357,210.661,146.245)">
+            <text x="33.38px" y="31.861px" style="font-family:'JetBrainsMono-Bold', 'JetBrains Mono', monospace;font-weight:700;font-size:50px;fill:rgb(206,127,148);">eml:</text>
+            <text x="183.38px" y="31.861px" style="font-family:'JetBrainsMono-Bold', 'JetBrains Mono', monospace;font-weight:700;font-size:50px;fill:rgb(66,141,126);">riyuzenn@pm.me</text>
+        </g>
+        <g transform="matrix(0.353683,0,0,0.355357,210.661,170.968)">
+            <text x="33.38px" y="31.861px" style="font-family:'JetBrainsMono-Bold', 'JetBrains Mono', monospace;font-weight:700;font-size:50px;fill:rgb(206,127,148);">dcd:</text>
+            <text x="183.38px" y="31.861px" style="font-family:'JetBrainsMono-Bold', 'JetBrains Mono', monospace;font-weight:700;font-size:50px;fill:rgb(66,141,126);">zenn#7473</text>
+        </g>
+        <g transform="matrix(0.353683,0,0,0.355357,210.661,194.083)">
+            <text x="33.38px" y="31.861px" style="font-family:'JetBrainsMono-Bold', 'JetBrains Mono', monospace;font-weight:700;font-size:50px;fill:rgb(206,127,148);">twt:</text>
+            <text x="183.38px" y="31.861px" style="font-family:'JetBrainsMono-Bold', 'JetBrains Mono', monospace;font-weight:700;font-size:50px;fill:rgb(66,141,126);">@riyuzenn</text>
+        </g>
+    </g>
+    <g transform="matrix(1.08242,0,0,1.21961,193.164,15.2609)">
+        <rect x="217.117" y="39.171" width="5.713" height="12.82" style="fill:rgb(153,124,117);"/>
+    </g>
+    <g>
+        <g id="icons8-typescript.svg" transform="matrix(0.64,0,0,0.64,103.708,462.686)">
+            <g transform="matrix(1,0,0,1,-25,-25)">
+                <g id="surface1145449">
+                    <path d="M45,4L5,4C4.445,4 4,4.449 4,5L4,45C4,45.551 4.445,46 5,46L45,46C45.555,46 46,45.551 46,45L46,5C46,4.449 45.555,4 45,4ZM29,26.445L24,26.445L24,42L20,42L20,26.445L15,26.445L15,23L29,23L29,26.445ZM30.121,41.113L30.121,36.953C30.121,36.953 32.391,38.664 35.117,38.664C37.844,38.664 37.738,36.883 37.738,36.641C37.738,34.055 30.016,34.055 30.016,28.324C30.016,20.535 41.266,23.609 41.266,23.609L41.125,27.313C41.125,27.313 39.238,26.055 37.109,26.055C34.977,26.055 34.207,27.066 34.207,28.148C34.207,30.945 42,30.664 42,36.289C42,44.953 30.121,41.113 30.121,41.113Z" style="fill:rgb(240,200,175);fill-rule:nonzero;"/>
+                </g>
+            </g>
+        </g>
+        <g id="icons8-python.svg" transform="matrix(0.64,0,0,0.64,141.623,462.562)">
+            <g transform="matrix(1,0,0,1,-25,-25)">
+                <g id="surface1151124">
+                    <path d="M24.5,2C15.801,2 14,6.492 14,9.094L14,14L24,14L24,15L9.094,15C5.793,15 2,17.602 2,25C2,32.398 5.793,35 9.094,35L15,35L15,29C15,26.801 16.801,25 19,25L31,25C32.699,25 34,23.699 34,22L34,9.094C34,5.594 30.699,2 24.5,2ZM20,7C21.102,7 22,7.898 22,9C22,10.102 21.102,11 20,11C18.898,11 18,10.102 18,9C18,7.898 18.898,7 20,7ZM35,15L35,22C35,24.199 33.199,26 31,26L19,26C17.301,26 16,27.301 16,29L16,40.906C16,44.406 19.301,48 25.5,48C34.199,48 36,43.508 36,40.906L36,36L26,36L26,35L40.906,35C44.207,35 48,32.398 48,25C48,17.602 44.207,15 40.906,15L35,15ZM30,39C31.102,39 32,39.898 32,41C32,42.102 31.102,43 30,43C28.898,43 28,42.102 28,41C28,39.898 28.898,39 30,39Z" style="fill:rgb(240,200,175);fill-rule:nonzero;"/>
+                </g>
+            </g>
+        </g>
+        <g id="icons8-visual-studio-code-2019.svg" transform="matrix(0.666667,0,0,0.666667,379.398,462.562)">
+            <g transform="matrix(1,0,0,1,-24,-24)">
+                <path d="M44,11.11L44,36.89C44,38.16 43.21,39.29 42.02,39.71L33.2,43.85L34,33L34,15L33.2,4.15L42.02,8.29C43.21,8.71 44,9.84 44,11.11Z" style="fill:rgb(240,200,175);fill-rule:nonzero;"/>
+                <path d="M9,33.896L34,15L34,5.353C34,4.155 32.518,3.595 31.725,4.493L4.658,29.239C3.758,30.069 3.809,31.506 4.765,32.271C4.765,32.271 6.089,33.503 6.568,33.845C7.304,34.37 8.271,34.43 9,33.896Z" style="fill:rgb(240,200,175);fill-rule:nonzero;"/>
+                <path d="M9,14.104L34,33L34,42.647C34,43.845 32.518,44.405 31.725,43.507L4.658,18.761C3.758,17.931 3.809,16.494 4.765,15.729C4.765,15.729 6.089,14.497 6.568,14.155C7.304,13.63 8.271,13.57 9,14.104Z" style="fill:rgb(240,200,175);fill-rule:nonzero;"/>
+            </g>
+        </g>
+        <g id="icons8-c-sharp-logo.svg" transform="matrix(0.64,0,0,0.64,220.041,462.562)">
+            <g transform="matrix(1,0,0,1,-25,-25)">
+                <path d="M25,2C24.285,2 23.57,2.18 22.934,2.539L6.09,12.004C4.801,12.727 4,14.082 4,15.535L4,34.465C4,35.918 4.801,37.273 6.09,37.996L22.934,47.461C23.57,47.82 24.285,48 25,48C25.715,48 26.43,47.82 27.066,47.461L43.91,38C45.199,37.273 46,35.918 46,34.465L46,15.535C46,14.082 45.199,12.727 43.91,12.004L27.066,2.539C26.43,2.18 25.715,2 25,2ZM25,13C28.781,13 32.277,14.754 34.543,17.738L30.16,20.277C28.844,18.836 26.973,18 25,18C21.141,18 18,21.141 18,25C18,28.859 21.141,32 25,32C26.973,32 28.844,31.164 30.16,29.723L34.543,32.262C32.277,35.246 28.781,37 25,37C18.383,37 13,31.617 13,25C13,18.383 18.383,13 25,13ZM35,20L37,20L37,22L39,22L39,20L41,20L41,22L43,22L43,24L41,24L41,26L43,26L43,28L41,28L41,30L39,30L39,28L37,28L37,30L35,30L35,28L33,28L33,26L35,26L35,24L33,24L33,22L35,22L35,20ZM37,24L37,26L39,26L39,24L37,24Z" style="fill:rgb(240,200,175);fill-rule:nonzero;"/>
+            </g>
+        </g>
+        <g id="icons8-git.svg" transform="matrix(0.64,0,0,0.64,338.587,462.562)">
+            <g transform="matrix(1,0,0,1,-25,-25)">
+                <path d="M46.793,22.09L27.91,3.207C27.109,2.402 26.055,2 25,2C23.945,2 22.891,2.402 22.09,3.207L18.355,6.941L22.977,11.563C24.512,10.66 26.512,10.855 27.828,12.172C29.145,13.488 29.336,15.488 28.434,17.02L32.977,21.563C34.512,20.66 36.512,20.855 37.828,22.172C39.391,23.734 39.391,26.266 37.828,27.828C36.266,29.391 33.734,29.391 32.172,27.828C30.855,26.512 30.66,24.512 31.563,22.977L27.02,18.434C26.695,18.625 26.355,18.766 26,18.855L26,31.141C27.723,31.586 29,33.137 29,35C29,37.211 27.211,39 25,39C22.789,39 21,37.211 21,35C21,33.137 22.277,31.586 24,31.141L24,18.855C23.332,18.684 22.695,18.352 22.172,17.828C20.855,16.512 20.664,14.512 21.566,12.98L16.941,8.355L3.207,22.09C1.598,23.695 1.598,26.305 3.207,27.91L22.09,46.793C22.891,47.598 23.945,48 25,48C26.055,48 27.109,47.598 27.91,46.793L46.793,27.91C48.402,26.305 48.402,23.695 46.793,22.09Z" style="fill:rgb(240,200,175);fill-rule:nonzero;"/>
+            </g>
+        </g>
+        <g id="icons8-javascript.svg" transform="matrix(0.64,0,0,0.64,181.338,462.562)">
+            <g transform="matrix(1,0,0,1,-25,-25)">
+                <path d="M43.336,4L6.668,4C5.195,4 4,5.195 4,6.668L4,43.332C4,44.805 5.195,46 6.668,46L43.332,46C44.805,46 46,44.805 46,43.336L46,6.668C46,5.195 44.805,4 43.336,4ZM27,36.184C27,40.18 24.656,42 21.234,42C18.141,42 15.91,39.926 15,38L18.145,36.098C18.75,37.172 19.672,38 21,38C22.27,38 23,37.504 23,35.574L23,23L27,23L27,36.184ZM35.676,42C32.133,42 30.121,40.215 29,38L32,36C32.816,37.336 33.707,38.613 35.59,38.613C37.172,38.613 38,37.824 38,36.73C38,35.426 37.141,34.961 35.402,34.199L34.449,33.789C31.695,32.617 29.863,31.148 29.863,28.039C29.863,25.18 32.047,23 35.453,23C37.879,23 39.621,23.844 40.879,26.055L37.91,27.965C37.254,26.789 36.551,26.328 35.453,26.328C34.336,26.328 33.629,27.039 33.629,27.965C33.629,29.109 34.336,29.57 35.973,30.281L36.926,30.691C40.172,32.078 42,33.496 42,36.684C42,40.117 39.301,42 35.676,42Z" style="fill:rgb(240,200,175);fill-rule:nonzero;"/>
+            </g>
+        </g>
+        <g id="tailwindcss-icon.svg" transform="matrix(0.5,0,0,0.5,299.23,462.562)">
+            <g transform="matrix(1,0,0,1,-32,-32)">
+                <path d="M16,25.6C18.133,17.067 23.467,12.8 32,12.8C44.8,12.8 46.4,22.4 52.8,24C57.067,25.067 60.8,23.467 64,19.2C61.867,27.733 56.533,32 48,32C35.2,32 33.6,22.4 27.2,20.8C22.933,19.733 19.2,21.333 16,25.6ZM0,44.8C2.133,36.267 7.467,32 16,32C28.8,32 30.4,41.6 36.8,43.2C41.067,44.267 44.8,42.667 48,38.4C45.867,46.933 40.533,51.2 32,51.2C19.2,51.2 17.6,41.6 11.2,40C6.933,38.933 3.2,40.533 0,44.8Z" style="fill:rgb(240,200,175);"/>
+            </g>
+        </g>
+        <g id="next-js-seeklogo.com.svg" transform="matrix(0.125,0,0,0.125,259.259,462.562)">
+            <g transform="matrix(1,0,0,1,-128,-128)">
+                <g>
+                    <path d="M119.617,0.069C119.066,0.119 117.315,0.294 115.738,0.419C79.378,3.697 45.319,23.313 23.748,53.463C11.736,70.227 4.054,89.243 1.151,109.385C0.125,116.415 0,118.492 0,128.025C0,137.558 0.125,139.635 1.151,146.666C8.108,194.73 42.316,235.114 88.712,250.076C97.02,252.754 105.778,254.58 115.738,255.681C119.617,256.106 136.383,256.106 140.262,255.681C157.454,253.779 172.018,249.526 186.382,242.195C188.584,241.069 189.01,240.769 188.709,240.518C188.509,240.368 179.125,227.783 167.864,212.57L147.394,184.922L121.744,146.966C107.63,126.098 96.019,109.034 95.919,109.034C95.819,109.009 95.718,125.873 95.668,146.465C95.593,182.52 95.568,183.971 95.118,184.822C94.467,186.048 93.967,186.549 92.916,187.099C92.115,187.499 91.414,187.574 87.636,187.574L83.306,187.574L82.155,186.849C81.404,186.373 80.854,185.748 80.479,185.022L79.953,183.896L80.003,133.73L80.078,83.538L80.854,82.562C81.254,82.037 82.105,81.361 82.706,81.036C83.732,80.536 84.132,80.486 88.461,80.486C93.566,80.486 94.417,80.686 95.743,82.137C96.119,82.537 110.007,103.455 126.624,128.651C143.24,153.846 165.962,188.25 177.123,205.139L197.393,235.84L198.419,235.164C207.503,229.259 217.112,220.852 224.719,212.095C240.91,193.504 251.345,170.836 254.849,146.666C255.875,139.635 256,137.558 256,128.025C256,118.492 255.875,116.415 254.849,109.385C247.892,61.32 213.684,20.936 167.288,5.974C159.105,3.322 150.397,1.495 140.637,0.394C138.235,0.144 121.694,-0.131 119.617,0.069ZM172.018,77.483C173.219,78.084 174.195,79.235 174.545,80.436C174.746,81.086 174.796,94.998 174.746,126.349L174.671,171.336L166.738,159.176L158.78,147.016L158.78,114.314C158.78,93.171 158.88,81.286 159.03,80.711C159.431,79.31 160.307,78.209 161.508,77.558C162.534,77.033 162.909,76.983 166.838,76.983C170.542,76.983 171.192,77.033 172.018,77.483Z" style="fill:rgb(240,200,175);fill-rule:nonzero;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
