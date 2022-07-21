@@ -8,7 +8,7 @@
 <h2 align="center">
   :sparkles: <samp>whoami </samp>
 </h2>
-   <img src="https://github.com/riyuzenn/dotfiles/raw/main/assets/preview.png" alt="Rice Showcase" align="right" width="400px" />
+   <img src="https://github.com/riyuzenn/dotfiles/raw/main/assets/showcase.png" alt="Rice Showcase" align="right" width="400px" />
    an open-source enthusiast who's passionate on how stuff works & obsessed in innovating and building things from scratch <a href="https://riyuzenn.me">...</a>
    <br></br>
    
