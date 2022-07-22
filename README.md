@@ -12,7 +12,7 @@
    an open-source enthusiast who's passionate on how stuff works & obsessed in innovating and building things from scratch <a href="https://riyuzenn.me">...</a>
    <br></br>
    
-   Here are more information about my <a href="https://github.com/riyuzemm/dotfiles">dotfiles</a> setup:
+   Here are more information about my <a href="https://github.com/riyuzenn/dotfiles">dotfiles</a> setup:
    
    - **OS:** [arch](https://archlinux.org)
    - **WM:** [bspwm](https://github.com/baskerville/bspwm)
