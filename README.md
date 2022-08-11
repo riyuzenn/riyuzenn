@@ -23,3 +23,9 @@
    - **Editor:** [neovim](https://github.com/neovim/neovim)
    - **Notification:** [dunst](https://github.com/dunst-project/dunst)
    - **Launcher:** [rofi](https://github.com/davatorium/rofi)
+
+<details>
+  <summary>stats</summary>
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=riyuzenn&show_icons=true&count_private=true&icon_color=ac8aac&title_color=ac8aac&bg_color=0e0e0e&text_color=cacaca&hide_title=true" />
+</details>
