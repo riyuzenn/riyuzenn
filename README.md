@@ -5,8 +5,10 @@
 <div align="center">
   <h3>─────※ ·❆· ※─────</h3>
 </div>
--->
-<img src="https://riyuzenn.me/api/greet?morning=Start your day with a great caffeine&afternoon=Make sure to take your lunch&evening=Take your dinner andgo to bed" />
+-->  
+
+![](https://riyuzenn.me/api/greet?morning=Start%20your%20day%20with%20a%20great%20caffeine&afternoon=Make%20sure%20to%20take%20your%20lunch&evening=Take%20your%20dinner%20and%20go%20to%20bed)
+
 <hr />
 
    <img src="https://github.com/riyuzenn/dotfiles/raw/main/assets/showcase.png" alt="Rice Showcase" align="right" width="400px" />
