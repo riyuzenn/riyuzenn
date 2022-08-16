@@ -9,7 +9,7 @@ def makeimg(greeting: str):
 
 def main():
     current = datetime.datetime.now()
-
+    print(current)
     if current.hour < 12:
         # Morning
         makeimg("morning")
