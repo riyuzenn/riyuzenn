@@ -1,13 +1,14 @@
 <!-- [![dark mode](./img/zenn.svg#gh-dark-mode-only)](https://bit.ly/riyuzenn) -->
 <!-- [![light mode](./img/zenn-light.svg)](https://bit.ly/riyuzenn#gh-light-mode-only) -->
 
+<!--
 <div align="center">
   <h3>─────※ ·❆· ※─────</h3>
 </div>
+-->
+<img src="./img/greetings.svg" />
+<hr />
 
-<h2 align="center">
-  :sparkles: <samp>whoami </samp>
-</h2>
    <img src="https://github.com/riyuzenn/dotfiles/raw/main/assets/showcase.png" alt="Rice Showcase" align="right" width="400px" />
    an open-source enthusiast who's passionate on how stuff works & obsessed in innovating and building things from scratch <a href="https://riyuzenn.me">...</a>
    <br></br>
