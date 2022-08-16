@@ -9,7 +9,7 @@ on:
       mode:
         description: 'Running mode'  
   push:
-    branches: [ master ]
+    branches: [ main ]
   schedule:
     - cron: "0 */1 * * *"
 jobs:
