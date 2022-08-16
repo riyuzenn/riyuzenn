@@ -6,7 +6,7 @@
   <h3>─────※ ·❆· ※─────</h3>
 </div>
 -->
-<img src="./img/greetings.svg" />
+<img src="https://riyuzenn.me/api/greet?morning=Start your day with a great caffeine&afternoon=Make sure to take your lunch&evening=Take your dinner andgo to bed" />
 <hr />
 
    <img src="https://github.com/riyuzenn/dotfiles/raw/main/assets/showcase.png" alt="Rice Showcase" align="right" width="400px" />
