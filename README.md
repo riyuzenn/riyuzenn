@@ -11,10 +11,8 @@
 
 <hr />
 
-   <img src="https://github.com/riyuzenn/dotfiles/raw/main/assets/showcase.png" alt="Rice Showcase" align="right" width="400px" />  
-   <br><br/>
-
-   just another average arch enjoyer. [<a href="https://riyuzenn.me">more info</a>]
+   <img src="https://github.com/riyuzenn/dotfiles/raw/main/assets/showcase.png" alt="Rice Showcase" align="right" width="400px" />
+   Just another average arch enjoyer & a part time full stack dev. [<a href="https://riyuzenn.me">more info</a>]
    <br></br>
    
    Here are more information about my <a href="https://github.com/riyuzenn/dotfiles">dotfiles</a> setup:
