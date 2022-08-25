@@ -21,7 +21,7 @@
    - **WM:** [bspwm](https://github.com/baskerville/bspwm)
    - **Terminal:** [alacritty](https://github.com/alacritty/alacritty)
    - **Shell:** [zsh](https://www.zsh.org/)
-   - **Panel:** [polybar](https://github.com/polybar/polybar)
+   - **Bar:** [eww](https://github.com/elkowar/eww)
    - **Compositor:** [picom](https://github.com/ibhagwan/picom)
    - **Editor:** [neovim](https://github.com/neovim/neovim)
    - **Notification:** [dunst](https://github.com/dunst-project/dunst)
