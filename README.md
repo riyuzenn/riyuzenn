@@ -11,7 +11,7 @@
 
 <hr />
 
-   <img src="https://github.com/riyuzenn/dotfiles/raw/main/assets/showcase.png" alt="Rice Showcase" align="right" width="400px" />
+   <a href="https://github.com/riyuzenn/dotfiles"><img src="https://github.com/riyuzenn/dotfiles/raw/main/assets/showcase.png" alt="Rice Showcase" align="right" width="400px" /></a>
    Just another average arch enjoyer & a part time full stack dev. [<a href="https://riyuzenn.me">more info</a>]
    <br></br>
    
