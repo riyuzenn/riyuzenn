@@ -2428,7 +2428,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>revoltchat/revolt</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Repository for miscellaneous repository management and discussions: https://github.com/revoltchat/revolt/discussions</div>
@@ -3413,7 +3413,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Aug 2022, 20:12:20 (timezone Europe/Amsterdam) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 27 Aug 2022, 21:08:07 (timezone Europe/Amsterdam) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
