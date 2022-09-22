@@ -1,5 +1,5 @@
 <div>
-  <img src="./img/monitor.gif" height="128" width="128" align="left" />
+  <img src="https://github.com/riyuzenn/riyuzenn/raw/main/img/monitor.gif" height="128" width="128" align="left" />
 </div>
 
 ```diff
