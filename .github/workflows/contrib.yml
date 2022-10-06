@@ -1,0 +1,26 @@
+
+
+name: 3d Stats Github Contributions
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v2
+      - uses: yoshi389111/github-profile-3d-contrib@0.6.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          USERNAME: riyuzenn
+      - name: Commit & Push
+        run: |
+          git config user.name riyuzenn
+          git config user.email riyuzenn@gmail.com
+          git add -A .
+          git commit -m "generate stats"
+          git push
