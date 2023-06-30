@@ -30,4 +30,5 @@ jobs:
           plugin_stars_limit: 3
           repositories_affiliations: owner # organization_member
           plugin_notable: yes
+          plugin_calendar: yes
           filename: github-metrics.svg
