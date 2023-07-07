@@ -15,8 +15,8 @@
 arch :: ~ » @fetch
 @@ interested in {*nix,foss,cs} @@
 # most commits were automated
-+ more info: https://riyuzenn.me
-- riyuzenn{@pm.me,@gmail.com}
+more info: https://riyuzenn.vercel.app
++ riyuzenn{@pm.me,@gmail.com}
 
 ```
 
