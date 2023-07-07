@@ -328,7 +328,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>maaslalani/slides</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Terminal based presentation tool</div>
@@ -493,8 +493,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ee98ac5</div>
-                                        <div class="message">Add files via upload</div>
+                                        <div class="sha">#abdd52a</div>
+                                        <div class="message">update readme</div>
                                     </div>
                                 </div>
                             </section>
@@ -513,8 +513,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#56aedf3</div>
-                                        <div class="message">Add files via upload</div>
+                                        <div class="sha">#5b16a4f</div>
+                                        <div class="message">update banner</div>
                                     </div>
                                 </div>
                             </section>
@@ -527,14 +527,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">repeldb/rewave</span>
+                                        <span class="repo">riyuzenn/riyuzenn</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1d27c8b</div>
-                                        <div class="message">docs: add feature section</div>
+                                        <div class="sha">#ee98ac5</div>
+                                        <div class="message">Add files via upload</div>
                                     </div>
                                 </div>
                             </section>
