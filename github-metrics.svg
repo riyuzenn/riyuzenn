@@ -305,6 +305,7 @@
                                     <rect class="day" x="0" y="34" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="49" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="64" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="79" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                 </g>
                             </g>
                         </svg>
@@ -328,7 +329,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>maaslalani/slides</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Terminal based presentation tool</div>
@@ -381,7 +382,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>resume/resume.github.com</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Resumes generated using the GitHub informations</div>
