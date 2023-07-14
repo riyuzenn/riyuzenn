@@ -313,6 +313,7 @@
                                     <rect class="day" x="0" y="19" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="34" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="49" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="64" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </g>
                         </svg>
@@ -336,7 +337,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nlohmann/json</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">JSON for Modern C++</div>
@@ -389,7 +390,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>airbnb/visx</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🐯 visx | visualization components</div>
