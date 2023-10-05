@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="553" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="934" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.field.language{margin:0 8px;flex-grow:0}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .repo{display:inline;color:#58a6ff}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.label,.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.repository .name{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;border-radius:32px;font-size:12px}.chart{padding:0 8px}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{align-items:center;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -432,7 +432,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>seanmonstar/reqwest</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An easy and powerful Rust HTTP Client</div>
@@ -519,7 +519,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        694
+                                        695
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -595,6 +595,227 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 377 commits in
+                                        <span class="repo">riyuzenn/monkeytype</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0b14a00</div>
+                                        <div class="message">quote reports, removed low rated quotes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4cbcf6a</div>
+                                        <div class="message">added code that will unset any legacy values that are still in the db config</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0960d32</div>
+                                        <div class="message">removing user from auth if no data was found in the db</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#612331a</div>
+                                        <div class="message">removed word</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ade4ff7</div>
+                                        <div class="message">reduced top margin of full width settings buttons</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2b30ae6</div>
+                                        <div class="message">added toWpm function</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7f734e7</div>
+                                        <div class="message">renamed function</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1f4df91</div>
+                                        <div class="message">Added configuration for typing speed unit, removed alwaysShowCPM (#4492) fehmer
+
+* Added configuration for typing speed unit, removed alwaysShowCPM
+
+* review comments
+
+* fix live-burst, activityChart and results-pb label
+
+* Added support for typing speed unit in account histogram chart
+
+* trigger build
+
+* Update account.ts
+
+* Fix chart scaling and wpm/rawWpm hovers on result page
+fix chart scaling and bucket size on account page
+
+* refactor histogramChartData to support 0.5 steps
+
+* Revert dynamic scaling on accounts/result graph
+
+* Refactor histogramChartData to an int[]
+
+* Fix cutoff in account history
+
+* Fix labels on result page
+
+* Limit result chart label to two decimals
+
+* renamed show average wpm to show average speed
+
+* fix scaling on accounts history graph (again),   not adding an easteregg 🤫
+
+* hiding by default
+
+* fix scaling on accounts history graph episode three
+
+* move typingSpeedUnit related functions out of Misc
+
+* updating account page if typing speed unit changes
+
+* updating result page if changing units on the result page
+
+* missing buton change
+
+---------
+
+Co-authored-by: Miodec &lt;jack@monkeytype.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d4a0614</div>
+                                        <div class="message">Added Overpass Mono Font (#4500) ibrab000
+
+* Update _list.json
+
+* Update _list.json
+
+* Add files via upload
+
+* Update fonts.scss</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7e9a7ef</div>
+                                        <div class="message">prettier fix</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d1cba45</div>
+                                        <div class="message">added uzbek_70k words (#4493) ShaakhDev
+
+* added uzbek_70k words
+
+* whitespace changes has been reverted in list and group files.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2355ea5</div>
+                                        <div class="message">Add golang quotes (#4498) gforien
+
+* Add golang quotes
+
+Sources
+- https://github.com/aws/aws-sdk-go-v2/blob/ae835ecd/service/iam/api_op_GetRole.go
+- https://github.com/helm/helm/blob/50c22ed7/pkg/downloader/chart_downloader.go
+- https://github.com/helm/helm/blob/50c22ed7/pkg/engine/files.go
+- https://github.com/helm/helm/blob/50c22ed7/pkg/engine/funcs.go
+- https://github.com/helm/helm/blob/50c22ed7/pkg/plugin/plugin.go
+- https://github.com/kubernetes/kubernetes/blob/3b18e80/pkg/client/conditions/conditions.go
+- https://github.com/kubernetes/kubernetes/blob/3b18e80/pkg/controller/garbagecollector/graph_builder.go
+- https://github.com/tmrts/go-patterns/blob/64a6757/concurrency/bounded_parallelism.go
+
+* Fix quotes lengths</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8bebb8c</div>
+                                        <div class="message">ci(frontend/scripts): print expected quote length (#4499) gforien</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#193a708</div>
+                                        <div class="message">added middlemak and middlemak-nh (#4497) krig</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#be7e59d</div>
+                                        <div class="message">...actually using the parameter</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#00e7689</div>
+                                        <div class="message">added parameter to calculate final stats with decimal points</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b50b473</div>
+                                        <div class="message">Added crt mode to the funbox (#4465) fahmer
+
+* Added crt mode to the funbox
+
+* remove borders, move screen glow to body, remove lines animation
+
+* removes white flash on test restart, keep crt mode on result page
+
+* cleanup removal of funbox css
+
+* fix white flash when disabling crt mode, fix background
+
+* use actual color for text glow
+
+* fix rendering issue with glow
+
+* adds glow to input, buttons, logo and carets
+
+* prefix new variables with -crt, update themes to fit crt mode
+
+* adds glow to textarea, avatar and fix glow in focus mode
+
+* fix typo in lavender theme
+
+* move crt related stylesheets to separate file, add scanline div on demand
+
+* add applyGlobalCss to keep the theme active on pages outsite the test page
+
+* made sure crt works globally
+added a clear global function
+calling apply global and clear global when toggling funboxes
+delaying globalcss apply because about page for some reason doesnt like funbox css files
+
+* add glow to banner
+
+---------
+
+Co-authored-by: Miodec &lt;jack@monkeytype.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4bc787d</div>
+                                        <div class="message">Added Rainbow Trail theme (#4459) dastardlysky
+
+* "Rainbow Trail" Theme
+
+* reworked theme
+
+* created contrast in test config buttons
+
+* not overriding live wpm color,
+showing rainbow on main color selection
+
+* updated list file colors
+
+---------
+
+Co-authored-by: Miodec &lt;jack@monkeytype.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#051f21a</div>
+                                        <div class="message">quote lengths fix script</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1344681</div>
+                                        <div class="message">quote reports</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
