@@ -411,6 +411,7 @@
                                     <rect class="day" x="0" y="49" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="64" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="79" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="94" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </g>
                         </svg>
@@ -434,7 +435,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>runestubbe/Crinkler</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Crinkler is an executable file compressor (or rather, a compressing linker) for compressing small 32-bit Windows demoscene executables. As of 2020, it is the most widely used tool for compressing 1k/4k/8k intros.</div>
