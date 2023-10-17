@@ -1,6 +1,8 @@
+<!--
 <div>
   <img src="./img/background.png" align="" />
 </div>
+-->
 
 <p>‎</p>
 
@@ -16,7 +18,7 @@ arch :: ~ » @fetch
 @@ interested in {*nix,foss,cs} @@
 # most commits were automated
 more info: https://riyuzenn.vercel.app
-+ riyuzenn{@pm.me,@gmail.com}
++ riyuzenn@pm.me
 
 ```
 
