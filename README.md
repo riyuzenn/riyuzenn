@@ -25,7 +25,7 @@
    <br>
    </samp>
 <p align="center"><samp> ~
-   <a href="https://riyuzenn.vercel.app">boring portfolio</a>
+   <a href="https://ryuu-grub.vercel.app">boring portfolio</a>
    ·
    <a href="https://discord.com/users/418872913576591383">add me on discord</a>
    ·
