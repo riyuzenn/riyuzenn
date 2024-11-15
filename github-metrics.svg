@@ -460,6 +460,7 @@
                                     <rect class="day" x="0" y="19" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="34" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="49" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="64" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </g>
                         </svg>
@@ -483,7 +484,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>steven-tey/novel</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Notion-style WYSIWYG editor with AI-powered autocompletion.</div>
@@ -536,7 +537,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ueberdosis/tiptap</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Oct 16 2024</span>
                                     </div>
                                 </div>
                                 <div class="field description">The headless rich text editor framework for web artisans.</div>
@@ -589,7 +590,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nextui-org/nextui</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Oct 16 2024</span>
                                     </div>
                                 </div>
                                 <div class="field description">🚀   Beautiful, fast and modern React UI library.</div>
