@@ -225,6 +225,7 @@
                                 </g>
                                 <g transform="translate(285, 0)">
                                     <rect class="day" x="0" y="4" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="19" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </g>
                         </svg>
@@ -248,7 +249,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>terhechte/postsack</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Visually cluster your emails by sender, domain, and more to identify waste</div>
