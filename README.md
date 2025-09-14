@@ -41,6 +41,7 @@
     　<a href="#"><img src="https://img.shields.io/badge/-Javascript-white?logo=javascript&logoColor=black" /></a>
     <a href="#"><img src="https://img.shields.io/badge/-Typescript-white?logo=typescript&logoColor=black" /></a>
     <a href="#"><img src="https://img.shields.io/badge/-Rust-white?logo=rust&logoColor=black" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/-PHP-white?logo=php&logoColor=black" /></a>
   </div> 
   <div>
     　<a href="#"><img src="https://img.shields.io/badge/-Python-white?logo=python&logoColor=black" /></a>
